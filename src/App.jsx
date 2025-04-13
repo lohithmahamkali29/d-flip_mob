@@ -1,7 +1,7 @@
 import Mobile from "./components/Mobile"
 import Nav from "./components/nav"
 
-import './APP.css'
+import './App.css'
 
 function App(){
   const mob =[
